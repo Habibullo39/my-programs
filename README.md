@@ -13,3 +13,5 @@ Miura.py is a program which shows the common prefix of multiple words.
 Furlani.py is a program which shows the pair of index in the list of numbers whose sum is equal to target.
 
 Akani.py is a program which shows the shortest words found in the list of words.
+
+Takei.py is a program which shows the most common letter in multiple words and how many times it appeared.
